@@ -1,0 +1,61 @@
+{ 
+	"CONNECT_STATUS":
+    "Irenginys atjungtas. Prijunkite dabar!",
+
+    "DISCONNECTED":
+    "Pultas Buvo atjungtas!",
+
+    "BLUE_ANSWER_TEXT":
+    "Atsakymas pasirinktas",
+
+    "ORANGE_ANSWER_TEXT":
+    "Atsakymas pasirinktas",    
+
+    "GREEN_ANSWER_TEXT":
+    "Atsakymas pasirinktas",
+
+    "YELLOW_ANSWER_TEXT":
+    "Atsakymas pasirinktas",
+
+    "FIRST_TEAM":
+    "Pirma paspaudė I komanda",
+
+    "SECOND_TEAM":
+    "Pirma paspaudė II komanda",
+
+    "THIRTH_TEAM":
+    "Pirma paspaudė III komanda",
+
+    "I_TEAM_BLUE":
+    "I Komanda pasirinko melyna",
+    "I_TEAM_ORANGE":
+    "I Komanda pasirinko oranzine",
+    "I_TEAM_GREEN":
+    "I Komanda pasirinko zalia",
+    "I_TEAM_YELLOW":
+    "I Komanda pasirinko geltona",
+    "I_TEAM_YELLOW_CORRECT":
+    "I komandos atsakymas teisingas",
+
+    "II_TEAM_BLUE":
+    "II Komanda pasirinko melyna",
+    "II_TEAM_ORANGE":
+    "II Komanda pasirinko oranzine",
+    "II_TEAM_GREEN":
+    "II Komanda pasirinko zalia",
+    "II_TEAM_YELLOW":
+    "II Komanda pasirinko geltona",  
+    "II_TEAM_YELLOW_CORRECT":
+    "II komandos atsakymas teisingas",
+
+    "III_TEAM_BLUE":
+    "III Komanda pasirinko melyna",
+    "III_TEAM_ORANGE":
+    "III Komanda pasirinko oranzine",
+    "III_TEAM_GREEN":
+    "III Komanda pasirinko zalia",
+    "III_TEAM_YELLOW":
+    "III Komanda pasirinko geltona", 
+    "III_TEAM_YELLOW_CORRECT":
+    "III komandos atsakymas teisingas"
+}
